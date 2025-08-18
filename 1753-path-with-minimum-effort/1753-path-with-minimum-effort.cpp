@@ -12,7 +12,7 @@ public:
 
         int dr[4] ={-1,0,1,0};
         int dc[4] ={0, 1,0,-1};
-
+int ans=0;
         while(!q.empty())
         {
             auto it = q.top();
@@ -20,6 +20,7 @@ public:
             int d = it.first;
             int r = it.second.first;
             int c = it.second.second;
+         if (r == n-1 && c == m-1) return d;
 
             for(int k=0; k<4; k++)
             {
@@ -29,10 +30,13 @@ public:
                 if((nr>=0 && nr<n && nc>=0 && nc<m))
                 {
                     int dif =abs( g[nr][nc] - g[r][c]);
-                    if(dif<diff[nr][nc])
-                    {
-                          diff[nr][nc]=dif;
-                        q.push({dif,{nr,nc}});
+                    int a1=max(d,dif);
+                    if(a1<diff[nr][nc])
+                    {   
+                        
+                          diff[nr][nc]=a1;
+                          q.push({diff[nr][nc],{nr,nc}});
+                    
 
                     }
                 }
