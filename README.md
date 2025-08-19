@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1753-path-with-minimum-effort](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
@@ -65,5 +68,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
