@@ -9,7 +9,11 @@ public:
 
         for (int k = j-1; k <= j+1; k++) {
             if (k > 0 && mp.count(p+k)) 
-                if (dfs(p+k, k, s, mp, dp)) return dp[{p,j}] = 1;
+            {
+
+                if (dfs(p+k, k, s, mp, dp)) 
+                return dp[{p,j}] = 1;
+            }
             
         }
         return dp[{p,j}] = 0;
@@ -17,7 +21,7 @@ public:
 
     bool canCross(vector<int>& s) {
         map<int,int> mp;
-        
+
         for (int x : s) 
         mp[x] = 1;
 
