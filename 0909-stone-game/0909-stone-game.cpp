@@ -17,10 +17,7 @@ public:
            p.erase(p.begin() + r); 
            p.erase(p.begin() + l); 
            } 
-           else if (l > r) {
-            p.erase(p.begin() + l);
-            p.erase(p.begin() + r);
-           } 
+    
            else { 
     
             p.erase(p.begin() + l);
