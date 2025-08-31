@@ -10,20 +10,20 @@ public:
             a+=maxi;
             b+=mini;
 
-           int left  = i;
-           int right = n - i - 1;
+           int l  = i;
+           int r = n - i - 1;
 
-           if (left < right) {
-           p.erase(p.begin() + right); 
-           p.erase(p.begin() + left); 
+           if (l<r) {
+           p.erase(p.begin() + r); 
+           p.erase(p.begin() + l); 
            } 
-           else if (left > right) {
-            p.erase(p.begin() + left);
-            p.erase(p.begin() + right);
+           else if (l > r) {
+            p.erase(p.begin() + l);
+            p.erase(p.begin() + r);
            } 
            else { 
     
-            p.erase(p.begin() + left);
+            p.erase(p.begin() + l);
            }
 
         }
