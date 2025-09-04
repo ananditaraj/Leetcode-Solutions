@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0909-stone-game](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [3210-count-beautiful-substrings-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
+| [3830-find-closest-person](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3830-find-closest-person) |
 ## Memoization
 |  |
 | ------- |
