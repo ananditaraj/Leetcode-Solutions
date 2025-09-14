@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -195,4 +197,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
