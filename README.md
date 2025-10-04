@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Math
 |  |
