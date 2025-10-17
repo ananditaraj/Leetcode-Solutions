@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4059-design-exam-scores-tracker](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4059-design-exam-scores-tracker) |
 ## Depth-First Search
 |  |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
