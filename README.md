@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0878-shifting-letters](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0878-shifting-letters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1768-merge-strings-alternately](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [3210-count-beautiful-substrings-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [4055-longest-balanced-substring-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4055-longest-balanced-substring-i) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4090-minimum-string-length-after-balanced-removals) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [1768-merge-strings-alternately](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Design
 |  |
 | ------- |
