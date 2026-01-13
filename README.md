@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4045-longest-balanced-subarray-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4059-design-exam-scores-tracker](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4059-design-exam-scores-tracker) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0876-hand-of-straights](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Enumeration
 |  |
 | ------- |
