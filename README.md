@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0876-hand-of-straights](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0997-find-the-town-judge](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0763-partition-labels](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0878-shifting-letters](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0878-shifting-letters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0876-hand-of-straights](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [1917-maximum-average-pass-ratio](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 ## Bucket Sort
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0763-partition-labels](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1768-merge-strings-alternately](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Design
 |  |
