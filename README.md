@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Enumeration
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0876-hand-of-straights](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [1917-maximum-average-pass-ratio](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bucket Sort
 |  |
 | ------- |
