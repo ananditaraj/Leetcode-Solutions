@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4045-longest-balanced-subarray-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4059-design-exam-scores-tracker](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4059-design-exam-scores-tracker) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Math
 |  |
 | ------- |
