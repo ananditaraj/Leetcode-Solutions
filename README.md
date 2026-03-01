@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0878-shifting-letters](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0878-shifting-letters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [3210-count-beautiful-substrings-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1917-maximum-average-pass-ratio](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
