@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1753-path-with-minimum-effort](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1753-path-with-minimum-effort](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1917-maximum-average-pass-ratio](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
