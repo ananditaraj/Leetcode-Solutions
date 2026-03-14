@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3828-final-element-after-subarray-deletions](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3828-final-element-after-subarray-deletions) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3861-minimum-capacity-box](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3861-minimum-capacity-box) |
+| [3862-find-the-smallest-balanced-index](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3862-find-the-smallest-balanced-index) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4045-longest-balanced-subarray-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4059-design-exam-scores-tracker](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4059-design-exam-scores-tracker) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0878-shifting-letters](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0878-shifting-letters) |
 | [3210-count-beautiful-substrings-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
+| [3862-find-the-smallest-balanced-index](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3862-find-the-smallest-balanced-index) |
 | [4045-longest-balanced-subarray-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4059-design-exam-scores-tracker](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4059-design-exam-scores-tracker) |
 ## Game Theory
