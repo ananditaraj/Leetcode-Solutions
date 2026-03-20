@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3847-find-the-score-difference-in-a-game](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3861-minimum-capacity-box](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3862-find-the-smallest-balanced-index) |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4045-longest-balanced-subarray-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4059-design-exam-scores-tracker](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4059-design-exam-scores-tracker) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0856-consecutive-numbers-sum) |
 | [3210-count-beautiful-substrings-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [4055-longest-balanced-substring-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4055-longest-balanced-substring-i) |
 ## Number Theory
 |  |
