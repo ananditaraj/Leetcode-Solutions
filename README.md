@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1094-car-pooling](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [1753-path-with-minimum-effort](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 ## Shortest Path
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [1094-car-pooling](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0878-shifting-letters](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0878-shifting-letters) |
+| [1094-car-pooling](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [2906-construct-product-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [3210-count-beautiful-substrings-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
