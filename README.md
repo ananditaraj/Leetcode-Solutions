@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Graph
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0856-consecutive-numbers-sum) |
 | [3210-count-beautiful-substrings-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [4055-longest-balanced-substring-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4055-longest-balanced-substring-i) |
 ## Number Theory
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0878-shifting-letters](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0878-shifting-letters) |
 | [3210-count-beautiful-substrings-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3862-find-the-smallest-balanced-index](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3862-find-the-smallest-balanced-index) |
 | [4045-longest-balanced-subarray-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4059-design-exam-scores-tracker](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4059-design-exam-scores-tracker) |
