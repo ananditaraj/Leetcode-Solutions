@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2906-construct-product-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [1753-path-with-minimum-effort](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4055-longest-balanced-substring-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4055-longest-balanced-substring-i) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Brainteaser
 |  |
 | ------- |
