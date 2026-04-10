@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3828-final-element-after-subarray-deletions](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3828-final-element-after-subarray-deletions) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3210-count-beautiful-substrings-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4055-longest-balanced-substring-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4055-longest-balanced-substring-i) |
 ## String
