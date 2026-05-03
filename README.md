@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0763-partition-labels](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0878-shifting-letters](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0878-shifting-letters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -470,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3828-final-element-after-subarray-deletions](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3828-final-element-after-subarray-deletions) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
