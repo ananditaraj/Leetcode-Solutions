@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1094-car-pooling](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [3488-closest-equal-element-queries](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [4059-design-exam-scores-tracker](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4059-design-exam-scores-tracker) |
