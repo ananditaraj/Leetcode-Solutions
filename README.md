@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0756-pyramid-transition-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0874-walking-robot-simulation](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0649-dota2-senate](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0756-pyramid-transition-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0796-rotate-string) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0756-pyramid-transition-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0813-all-paths-from-source-to-target](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Sorting
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [1009-complement-of-base-10-integer](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
