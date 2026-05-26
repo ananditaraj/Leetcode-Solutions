@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-consecutive-numbers-sum](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0856-consecutive-numbers-sum) |
 | [0909-stone-game](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1390-four-divisors](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [3210-count-beautiful-substrings-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
