@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0403-frog-jump](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0909-stone-game](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0649-dota2-senate](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0767-reorganize-string) |
