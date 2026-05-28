@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0621-task-scheduler](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0840-magic-squares-in-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0876-hand-of-straights](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0878-shifting-letters](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0878-shifting-letters) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0463-island-perimeter) |
+| [0840-magic-squares-in-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [0840-magic-squares-in-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0876-hand-of-straights](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0997-find-the-town-judge](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0840-magic-squares-in-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0856-consecutive-numbers-sum](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0856-consecutive-numbers-sum) |
 | [0909-stone-game](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
