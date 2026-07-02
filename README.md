@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [3011-find-if-array-can-be-sorted](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Shortest Path
 |  |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -562,4 +567,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
