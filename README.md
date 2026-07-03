@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3620-network-recovery-pathways](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3620-network-recovery-pathways](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3488-closest-equal-element-queries](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3488-closest-equal-element-queries) |
+| [3620-network-recovery-pathways](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [4059-design-exam-scores-tracker](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4059-design-exam-scores-tracker) |
 ## Heap (Priority Queue)
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3620-network-recovery-pathways](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -233,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3620-network-recovery-pathways](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [4054-count-distinct-integers-after-removing-zeros](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4054-count-distinct-integers-after-removing-zeros) |
 ## Divide and Conquer
 |  |
@@ -571,4 +577,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
