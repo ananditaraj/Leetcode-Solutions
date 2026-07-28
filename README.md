@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3210-count-beautiful-substrings-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3926-count-valid-word-occurrences](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3926-count-valid-word-occurrences) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3011-find-if-array-can-be-sorted](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
 |  |
 | ------- |
