@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
