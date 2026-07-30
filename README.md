@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3210-count-beautiful-substrings-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3210-count-beautiful-substrings-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
