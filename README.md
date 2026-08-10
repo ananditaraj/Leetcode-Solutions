@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0200-number-of-islands) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
