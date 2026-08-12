@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0463-island-perimeter) |
+| [0560-subarray-sum-equals-k](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0756-pyramid-transition-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0763-partition-labels) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0878-shifting-letters](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0878-shifting-letters) |
 | [1094-car-pooling](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [2906-construct-product-matrix](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
