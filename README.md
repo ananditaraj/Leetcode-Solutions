@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3210-count-beautiful-substrings-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3210-count-beautiful-substrings-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Brainteaser
