@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3861-minimum-capacity-box](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3862-find-the-smallest-balanced-index) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3926-count-valid-word-occurrences](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3926-count-valid-word-occurrences) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3828-final-element-after-subarray-deletions](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3828-final-element-after-subarray-deletions) |
 | [3830-find-closest-person](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3830-find-closest-person) |
 | [3848-check-digitorial-permutation](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3848-check-digitorial-permutation) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [4054-count-distinct-integers-after-removing-zeros](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/4054-count-distinct-integers-after-removing-zeros) |
 ## Memoization
