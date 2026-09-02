@@ -1,44 +1,46 @@
 class Solution {
-    private:
-    void dfs(int i,int j, vector<vector<int>>&vis, vector<vector<char>>&g)
+    public:
+    void bfs(vector<vector<char>>&g, vector<vector<int>>&vis, int i, int j, int n, int m)
     {
-        int n=g.size();
-        int m =g[0].size();
         vis[i][j]=1;
-
         int dr[4]={-1,0,1,0};
         int dc[4]={0,1,0,-1};
-
-        for(int k=0; k<4; k++)
+        queue<pair<int,int>>q;
+        q.push({i,j});
+        
+        while(!q.empty())
         {
-            int nr = i+dr[k];
-            int nc = j+dc[k];
+            int r=q.front().first;
+            int c=q.front().second;
+            q.pop();
 
-            if((nr>=0 && nr<n && nc>=0 && nc<m) && vis[nr][nc]==0 && g[nr][nc]=='1')
+            for(int k=0; k<4; k++)
             {
-                dfs(nr,nc,vis,g);
-            }
+                int nr= r+dr[k];
+                int nc= c+dc[k];
 
-        }
-    }
-public:
-    int numIslands(vector<vector<char>>& g) {
-        int c=0;
-        int n=g.size();
-        int m =g[0].size();
-        vector<vector<int>>vis(n, vector<int>(m,0));
-
-        for(int i =0; i<n; i++)
-        {
-            for(int j =0; j<m; j++)
-            {
-                if(g[i][j]=='1' && vis[i][j]==0)
+                if(nr>=0 && nr<n && nc>=0 && nc<m && vis[nr][nc]==-1 && g[nr][nc]=='1')
                 {
-                    c++;
-                    dfs(i,j,vis,g);
+                    q.push({nr,nc});
+                    vis[nr][nc]=1;
                 }
             }
         }
-        return c;
+    }
+    int numIslands(vector<vector<char>>& g) {
+        int n=g.size(), m=g[0].size(), ans=0;
+        vector<vector<int>> vis(n, vector<int>(m,-1));
+        for(int i=0; i<n; i++)
+        {
+            for(int j=0; j<m; j++)
+            {
+                if(vis[i][j]==-1 && g[i][j]=='1')
+                {
+                    ans++;
+                    bfs(g,vis,i,j, n, m);
+                }
+            }
+        }
+        return ans;
     }
 };
