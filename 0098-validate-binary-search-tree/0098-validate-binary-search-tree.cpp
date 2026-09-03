@@ -12,21 +12,15 @@
 class Solution {
 public:
 vector<int> ans;
-    void inor(TreeNode *root)
+    bool check(TreeNode *root, long long l, long long h)
     {
-        if(root==nullptr) return;
-        inor(root->left);
-        ans.push_back(root->val);
-        inor(root->right);         
+        if(root==nullptr) return true;
+        if(root->val <= l || root-> val >= h)
+        return false;
+        return check(root->left,l,root->val)&&check(root->right, root->val, h);
+                
     }
     bool isValidBST(TreeNode* root) {
-        inor(root);
-        for(int i=0; i<ans.size()-1; i++)
-        {
-            if(ans[i]>=ans[i+1])
-            return false;
-
-        }
-        return true;               
+        return check(root,LLONG_MIN,LLONG_MAX);                      
     }
 };
