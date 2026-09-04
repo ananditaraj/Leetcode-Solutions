@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0767-reorganize-string](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -684,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -724,4 +729,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ananditaraj/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
